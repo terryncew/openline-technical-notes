@@ -5,11 +5,9 @@ independent researcher and creator of OpenLine.
 
 ## Contents
 
-- [poc-comment.md](poc-comment.md) — OpenLine evidence against the Proof of
-  Control working draft (public comment, window closes October 30, 2026).
-- [poc-appendix.md](poc-appendix.md) — Requirement-by-requirement technical
-  appendix for the comment.
+- [poc-comment.md](poc-comment.md) — original October 12, 2026 evidence mapping for the Proof-of-Control public-comment period.
+- [poc-appendix.md](poc-appendix.md) — original requirement-by-requirement technical appendix.
+- [poc-submission-2026-10-14.md](poc-submission-2026-10-14.md) — **proposed** focused external public comment, for owner approval; references the published October 13 report.
+- [poc-evidence-addendum-2026-10-14.md](poc-evidence-addendum-2026-10-14.md) — source commit check, moved standards repository, new Zenodo DOI, evidence boundaries, submission route.
 
-Nothing here is a conformance claim, a product pitch, or a request for
-endorsement. Each note states what was checked, what the evidence shows,
-and where the gaps are.
+No conformance or product endorsement is claimed. The October 14 submission candidate has **not** been posted to the external standards group.
