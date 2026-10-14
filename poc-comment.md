@@ -34,3 +34,12 @@ Not a conformance claim (none is made, per 8.1.4). Not a product pitch (there is
 ## Proposed first message to Ken Huang (Terrynce's version — for approval, DO NOT SEND)
 
 Ken, I've been reading the Proof of Control draft and put together a short implementation note comparing OpenLine's signed receipts with the evidence requirements. A few things line up, and quite a few don't. I thought it might be useful for the comment period. Mind if I send it?
+
+---
+
+## Submission record
+
+- **Submitted:** October 14, 2026 (12:42 PDT) as [LFDT-ProofOfControl/ov-poc-standard issue #122](https://github.com/LFDT-ProofOfControl/ov-poc-standard/issues/122) — "Public comment: receiver-generated scope reflection — proposed regression tests (C4.1.8, C7.1.4-5, C8.2.2)"
+- **Status:** Open, publicly visible. Contributed under Apache-2.0 per the working group's contribution rules.
+- **Content:** Three proposed auditor regression tests (receiver-generated scope reflection; final-signature boundary; verify-the-property-claimed), with the demonstrated failure case, explicit limits, and citations to the published report (doi:10.5281/zenodo.23358012), PR #104, draft PR #116, CI run 38501462915, and the October 14 technical addendum.
+- Prior related submissions by the same author: issues #57, #63, #84 (unchanged).
